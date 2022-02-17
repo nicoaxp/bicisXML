@@ -30,7 +30,7 @@
       
       <body>
         
-        <div class="container shadow">
+        <div class="container shadow bg-secondary">
           <div class="jumbotron">
             <h1 class="display-3">Mountain Bikes</h1>
             <hr class="my-2" />
